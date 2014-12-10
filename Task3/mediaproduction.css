@@ -1,0 +1,56 @@
+#wrapper {
+    padding: 10px;
+    width: 950px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:#848482;
+    }
+
+#header {
+    width: 930px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    background-color: #DBE9F4;
+    }
+
+#content {
+    padding: 10px;
+    width: 740px;
+    height: auto;
+    font-family:"Trebuchet MS";
+    background-color: #F2F3F4;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    }
+
+#logo_boxs {
+    width: 180px;
+    height: 180px;
+    margin: 5px;
+    background-color: #FF033E;
+    float: left;
+    }
+
+#menu_left {
+    padding: 10px;
+    width: 160px;
+    height: auto;
+    font-family:Tahoma;
+    background-color: #89CFF0;
+    margin-top: 10px;
+    float: left;
+    }
+
+#footer {
+    padding: 10px;
+    width: 930px;
+    height: 30px;
+    text-align:center;
+    font-family:Verdana;
+    background-color: #B2BEB5;
+    margin-top: 5px;
+    clear: both;
+    }
